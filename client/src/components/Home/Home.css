@@ -1,0 +1,39 @@
+body,html {
+    background-image: url(../../imgs/chores.jpg);
+    background-size: cover;
+    /* background-color: #00d62b; */
+}
+.container {
+    background-color: white;
+    /* border: black 2px solid; */
+    /* border-radius: 5px; */
+    width: 100%;
+    height: 100vh;
+    /* margin-top: 54px; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.mainTitle {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.choreTitle{
+    text-align: center;
+}
+
+.yourScore {
+    float: left;
+}
+.mvpScore {
+    float: right;
+}
+
+.addChore {
+    /* margin: auto; */
+    margin-top: 10px;
+    
+}
+.submitBtn {
+    width: -webkit-fill-available;
+}

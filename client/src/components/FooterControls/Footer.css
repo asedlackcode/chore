@@ -1,0 +1,32 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px black solid;
+    /* box-shadow: 4px 4px 0px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+ a {
+    color: #a7ff83;
+    text-decoration: none;
+
+}
+
+
+a:hover 
+{
+     color:#a7ff83; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+/* a:active {
+    background-color: black
+} */
+
+.homeIcon {
+    width: 60px;
+    /* border-right: thin white; */
+}
+
+.blackBack {
+    background-color: black;
+}

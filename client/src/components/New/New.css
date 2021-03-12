@@ -1,0 +1,11 @@
+.newTitle {
+    text-align: center;
+    margin-top: 10px;
+}
+.form-check {
+    font-size: larger;
+}
+.submit {
+    width: -webkit-fill-available;
+    margin-top: 15px;
+}
